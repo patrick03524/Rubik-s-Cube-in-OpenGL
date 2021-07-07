@@ -9,7 +9,7 @@ This repository contains the Final Project of Computer Graphics UCSP 2021-1
 
 ## Requirements
 The sample code for the `Rubik's Cube` needs CMake 3.20.0 or later.
-This project also depends on 6 libraries. These are located in the `dep` directory.
+This project also depends on 6 libraries:
 
 * [GLFW](https://www.glfw.org/)
 * [GLAD](https://github.com/Dav1dde/glad)
@@ -27,7 +27,7 @@ A full Demo of this project can be found on youtube: [DEMO-YOUTUBE](https://www.
 
 ## Instructions
 
-* First it is neccesary use CMake to compile the `CMakeLists.txt` file. You can found the dependencies in the `dep` directory.
+* First it is neccesary use CMake to compile the `CMakeLists.txt` file.
 * After that create a directory with the name "texturas" in your local disk D:/ with the files in the `texturas` directory.
 * Now you can compile it and run the project without problems!
 
